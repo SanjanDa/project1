@@ -1,0 +1,15 @@
+{
+    "Mathematics": {
+        "Algebra": {
+            "Linear Equations": [
+                {
+                    "question": "What is the solution for 2x + 3 = 7?",
+                    "options": ["x = 2", "x = 1", "x = 4", "x = 5"],
+                    "correctAnswer": 1
+                },
+                // more questions...
+            ]
+        }
+    }
+    // more subjects...
+}
